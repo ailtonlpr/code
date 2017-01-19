@@ -1,3 +1,3 @@
 <?php
-# Ver configurações
+# Ver configurações do PHP
 echo phpinfo();
