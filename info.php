@@ -1,3 +1,3 @@
 <?php
 # Ver configurações do PHP
-echo phpinfo();
+echo phpinfo(); // Comando
